@@ -75,6 +75,32 @@ _NATIONAL_EXTRA_HOLIDAYS_FOR_P3_PERIOD = {
         date(2025, 12, 8): "(lunes), La Inmaculada Concepción",
         date(2025, 12, 25): "(jueves), Navidad",
     },
+    2026: {
+        date(2026, 1, 1): "(jueves), Año nuevo",
+        date(2026, 1, 6): "(martes), Epifanía del Señor",
+        # date(2026, 4, 2): "(jueves), Jueves Santo",
+        date(2026, 4, 3): "(viernes), Viernes Santo",
+        date(2026, 5, 1): "(viernes), Día del Trabajador",
+        # date(2026, 8, 15): "(sábado), Asunción de la Virgen",
+        date(2026, 10, 12): "(lunes), Día de la Hispanidad",
+        # date(2026, 11, 1): "(domingo), Todos los Santos",
+        # date(2026, 12, 6): "(domingo), Día de la Constitución Española",
+        date(2026, 12, 8): "(martes), La Inmaculada Concepción",
+        date(2026, 12, 25): "(viernes), Navidad",
+    },
+    2027: {
+        date(2027, 1, 1): "(viernes), Año nuevo",
+        date(2027, 1, 6): "(miércoles), Epifanía del Señor",
+        # date(2027, 3, 25): "(jueves), Jueves Santo",
+        date(2027, 3, 26): "(viernes), Viernes Santo",
+        # date(2027, 5, 1): "(sábado), Día del Trabajador",
+        # date(2027, 8, 15): "(domingo), Asunción de la Virgen",
+        date(2027, 10, 12): "(martes), Día de la Hispanidad",
+        date(2027, 11, 1): "(lunes), Todos los Santos",
+        date(2027, 12, 6): "(lunes), Día de la Constitución Española",
+        date(2027, 12, 8): "(miércoles), La Inmaculada Concepción",
+        # date(2027, 12, 25): "(sábado), Navidad",
+    },
 }
 
 
